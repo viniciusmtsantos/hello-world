@@ -1,5 +1,5 @@
 # Hello, World!
-My first git and github repository
+ * My first git and github repository
 
 *Some **Markdowns** to use*:
 
