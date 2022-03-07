@@ -1,30 +1,27 @@
 # Hello, World!
-Primeiro repositório do curso de Git e GitHub
+My first git and github repository
+ ---
+*Some **Markdowns** to use*:
 
-Repositório criado durante uma aula ao vivo
+- [x] 
+- [ ] 
 
-*Produzindo Markdown*
+* List
+   * Sub-list
 
-- [x] Lista de Tarefas 
-- [ ] Lista sem fazer 
+1. List
+1. List
+   1. Sub-list
 
-* Lista Pontuada
-   * Lista Sub-Pontuada
+Tables
+Num | Name | 
+---|---|
+1 | Vinicius |
+2 | Ludmilla |
 
-1. Lista Numerada
-1. Lista Numerada
-   1. Lista Sub-numerada
+`Python && JS`
 
-Tabelas 
-Numero | Nome | Nota
----|---|---
-1 | Vinicius | 8,5
-3 | Maria | 9,0
-
-Compreendendo `Python` 👊
-
-``` py
-let num = document.getElementById('n');
-
+``` js
+console.log('Hello, World!");
 ```
 
